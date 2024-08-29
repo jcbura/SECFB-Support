@@ -9,4 +9,4 @@ THE SECFB app allows you to navigate through each of the 16 SEC team's football 
 * View a countdown to each team's next game.
 * View the schedule of each SEC team.
 
-Visit the [website](https://www.sechedules.com/)
+Visit the [SEChedules Wesbite](https://www.sechedules.com/)!
